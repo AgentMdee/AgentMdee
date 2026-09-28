@@ -7,7 +7,7 @@
 
 ---
 <details>
-<summary><strong>Education</strong></summary>
+<summary><strong>🧾 Education</strong></summary>
 
 
 - 👩🏼‍🎓 **BS in Information Technology**
