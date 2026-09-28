@@ -6,6 +6,17 @@
 </div>
 
 ---
+<details>
+<summary>🎮 Unity 3D</summary>
+
+- Animator Controller
+- Animation State Machine
+- Retargeting
+- FBX Conversion
+
+</details>
+
+
 
 ## 👨‍💻 About Me
 
