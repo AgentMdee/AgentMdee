@@ -1,120 +1,98 @@
-<div align="center">
+Hi, I'm Mdee 👋
 
-# Hi there, I'm Mdee :v:
+IT Graduate | AI Automation | 3D Technical Animation | Content Creator
 
-### n8n Automation | Technical Animation | Content Creator
-</div>
+I build AI-powered business automation workflows and 3D animation systems.
 
----
-<details>
-<summary><strong>🧾 Resume </strong></summary>
+🤖 AI & Automation
 
-## Education
-- 👩🏼‍🎓 **BS in Information Technology**
-- 🏫 **Systems Technology Institute College**
-- 📆 2011 - 2015
-- 📍 Bulacan, Philippines 
+- n8n Workflow Automation
+- JavaScript
+- AI / LLM Integration
+- Gemini • ChatGPT • Claude
+- OCR & Document Processing
+- Google Workspace • Google Cloud
+- Google Sheets • Google Drive • Gmail
+- WhatsApp • Xero
+- Meta Ads Lead Automation
 
-## Experience
+🎮 3D & Game Development
 
-</details>
-
-
-## 👨‍💻 About Me
-
-I'm a content creator and Unity 3D technical animator interested in
-animation, AI, automation, and game development.
-
-### 🎮 Unity 3D
-
-- Animator Controller
-- Animation Clips
-- Animation State Machine
+- Unity
+- Blender
+- Unreal Engine
+- GameMaker Studio
+- Character Rigging
 - Animation Retargeting
-- FBX animation conversion
-- Character animation
-- Technical animation workflows
+- Animation Systems
+- State Machines
+- Blend Trees
+- FBX / OBJ Conversion
 
-### 🤖 AI & Automation
+🎥 Content & AI Video
 
-- AI video creation
-- n8n automation
-- OCR
-- Google Gemini
-- Receipt processing
-- Bookkeeping automation
-- Google Sheets automation
+- YouTube — 200K+ Subscribers
+- 3D Animation Storytelling
+- CapCut • KineMaster
+- PixVerse • Kling
 
----
+🚀 Current Projects
 
-## 🛠️ Technologies
+- AI Bookkeeping Automation
+- Meta Ads Lead Automation
+- n8n Business Workflows
+- Unity Technical Animation
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=unity,blender,python,javascript,github,git" />
-
-</p>
+Tools: "n8n" "JavaScript" "Python" "Unity" "Blender" "Unreal" "Gemini" "GitHub" "Google Cloud" "Xero"
 
 ---
 
-## 📂 Featured Projects
+🚀 Featured Projects
 
-### 🎮 Unity 3D Animation Portfolio
+📒 AI Bookkeeping Automation
 
-Technical animation samples created using Unity 3D.
+n8n + AI + OCR + Google Sheets + Xero
 
-**Skills demonstrated:**
+Automated receipt processing, data extraction, duplicate detection, file organization, and bookkeeping workflows.
 
-- Animator Controller
-- Animation State Machine
-- Animation Retargeting
-- FBX
-- Character Animation
+"AI Bookkeeping Automation" (images/bookkeeping.png)
 
 ---
 
-### 🤖 Bookkeeping Automation
+🎯 Meta Ads Lead Automation
 
-An n8n automation workflow for processing receipts.
+Meta Ads + n8n + AI
 
-**Workflow:**
+Automated lead capture and processing for Meta advertising campaigns.
 
-Gmail / WhatsApp  
-↓  
-Receipt Processing  
-↓  
-Gemini OCR  
-↓  
-Receipt Validation  
-↓  
-Duplicate Detection  
-↓  
-Google Drive  
-↓  
-Google Sheets
+"Meta Ads Lead Automation" (images/meta-ads.png)
 
 ---
 
-## 📊 GitHub Stats
+🎮 Unity Technical Animation
 
-<p align="center">
+Unity + Blender + Unreal Engine
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+Character rigging, animation retargeting, animation systems, State Machines, Blend Trees, and FBX/OBJ workflows.
 
-</p>
-
----
-
-## 📫 Contact
-
-📧 Email: YOUR_EMAIL
-
-💼 LinkedIn: YOUR_LINKEDIN
+"3D Technical Animation" (images/technical-animation.png)
 
 ---
 
-<div align="center">
+🎥 AI Video Content Creation
 
-### Thanks for visiting my profile! 👋
+PixVerse + Kling + 3D Animation
 
-</div>
+AI-assisted video production and visual storytelling.
+
+"AI Video Creation" (images/ai-video.png)
+
+---
+
+🕹️ Educational Mathematics RPG — 2014
+
+GameMaker Studio
+
+Educational RPG game developed for elementary students, combining gameplay with mathematics problem solving.
+
+"Educational RPG Game" (images/gamemaker-rpg.png)
