@@ -7,7 +7,7 @@
 
 ---
 <details>
-<summary>**EDUCATION**</summary>
+<summary>#EDUCATION</summary>
 
 - 🏫
 
