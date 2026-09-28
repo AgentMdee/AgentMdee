@@ -2,15 +2,9 @@
 
 # Hi there, I'm Mdee :v:
 
-### Automation | Unity3D Technical Animator | Content Creator
+### n8n Automation | Unity3D Technical Animator | Content Creator
 
 ---
-
-⚙️ **Automation & n8n**
-🎮 **Unity 3D Technical Animation**  
-🤖 **AI Video Creation**  
-🎬 **Content Creation**
-
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
