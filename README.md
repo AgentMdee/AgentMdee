@@ -7,9 +7,9 @@
 
 ---
 <details>
-<summary>🎮 Unity 3D</summary>
+<summary>EDUCATION</summary>
 
-- Animator Controller
+- 🏫 - ****
 - Animation State Machine
 - Retargeting
 - FBX Conversion
