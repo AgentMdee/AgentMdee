@@ -7,14 +7,14 @@
 
 ---
 <details>
-<summary><strong>Education</strong>strong></summary>
+<summary><strong>Education</strong></summary>
 
 - GameMaker2D Games
 
 </details>
 
 <details>
-<summary><strong>Experience</strong>strong></summary>
+<summary><strong>Experience</strong></summary>
 
 - GameMaker2D Games
 
