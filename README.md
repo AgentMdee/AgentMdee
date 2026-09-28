@@ -16,7 +16,7 @@
 <details>
 <summary><strong>Experience<strong></summary>
 
-- 🏫
+- GameMaker2D Games
 
 </details>
 
