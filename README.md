@@ -7,12 +7,9 @@
 
 ---
 <details>
-<summary>EDUCATION</summary>
+<summary>**EDUCATION**</summary>
 
-- 🏫 - ****
-- Animation State Machine
-- Retargeting
-- FBX Conversion
+- 🏫
 
 </details>
 
