@@ -3,8 +3,6 @@
 # Hi there, I'm Mdee :v:
 
 ### n8n Automation | Unity3D Technical Animator | Content Creator
-
----
 </div>
 
 ---
