@@ -4,9 +4,9 @@
 ## Education
 
 - 🎓 **BS in Information Technology**
-- 📅 2011 - 2015
 - 🏫 **System Technology Institute College**
-- 📍  Philippines
+- 📅  2011 - 2015
+- 📍    Philippines
 
 ## Experience
 
