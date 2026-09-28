@@ -15,14 +15,9 @@
 - 📆 2011 - 2015
 - 📍 Bulacan, Philippines 
 
-</details>
-<details>
-<summary><strong>Experience</strong></summary>
-
-- GameMaker Studio
+## Experience
 
 </details>
-
 
 
 ## 👨‍💻 About Me
