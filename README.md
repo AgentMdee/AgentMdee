@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hi there 👋 I'm Mdee 🎮
+# Hi there, I'm Mdee :v:
 
-### Unity 3D Technical Animator | Content Creator | AI Video Creator
+### Automation | Unity3D Technical Animator | Content Creator
 
 ---
 
+⚙️ **Automation & n8n**
 🎮 **Unity 3D Technical Animation**  
 🤖 **AI Video Creation**  
-🎬 **Content Creation**  
-⚙️ **Automation & n8n**
+🎬 **Content Creation**
 
 <br>
 
