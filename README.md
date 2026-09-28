@@ -15,7 +15,6 @@
 - **n8n** Workflow Automation
 - **JavaScript**
 - AI / LLM Integration
-- Gemini • ChatGPT • Claude
 - OCR & Document Processing
 - Google Workspace • Google Cloud
 - Google Sheets • Google Drive • Gmail
