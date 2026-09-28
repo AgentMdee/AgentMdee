@@ -7,9 +7,9 @@
 
 ---
 <details>
-<summary><strong>🧾 Education</strong></summary>
+<summary><strong>🧾 Resume </strong></summary>
 
-
+<summary><strong>Education </strong></summary>
 - 👩🏼‍🎓 **BS in Information Technology**
 - 🏫 **Systems Technology Institute College**
 - 📆 2011 - 2015
