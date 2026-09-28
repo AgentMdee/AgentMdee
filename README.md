@@ -16,7 +16,6 @@
 - 📍 Bulacan, Philippines 
 
 </details>
-
 <details>
 <summary><strong>Experience</strong></summary>
 
