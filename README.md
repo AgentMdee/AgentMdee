@@ -2,21 +2,24 @@
 
 # Hi there, I'm Mdee :v:
 
-### n8n Automation | Unity3D Technical Animator | Content Creator
+### n8n Automation | Technical Animation | Content Creator
 </div>
 
 ---
 <details>
 <summary><strong>Education</strong></summary>
 
-- GameMaker2D Games
+- 👩🏼‍🎓 **BS in Information Technology**
+- 🏫 **Systems Technology Institute College**
+- 📆 2011 - 2015
+- 📍 Bulacan, Philippines 
 
 </details>
 
 <details>
 <summary><strong>Experience</strong></summary>
 
-- GameMaker2D Games
+- GameMaker Studio
 
 </details>
 
