@@ -4,8 +4,6 @@
 
 ### AI Automation | 3D Technical Animation | Content Creator
 
-I build **AI-powered business automation workflows** and **3D animation systems**.
-
 </div>
 
 ---
