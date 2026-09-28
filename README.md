@@ -9,7 +9,7 @@
 <details>
 <summary><strong>Education<strong></summary>
 
-- 🏫
+- GameMaker2D Games
 
 </details>
 
