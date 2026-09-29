@@ -46,20 +46,14 @@
 
 <div style="display: flex; gap: 6px; align-items: center; flex-wrap: wrap;">
 
-<img src="https://iconic-api.onrender.com/dark/n8n" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/javascript" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/python" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/unity" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/blender" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/unrealengine" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/gemini" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/github" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/googlecloud" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/xero" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/googlesheets" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/googledrive" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/ollama" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/powershell" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/n8n" width="52px" />
+<img src="https://iconic-api.onrender.com/dark/js" width="52px" />
+<img src="https://iconic-api.onrender.com/dark/python" width="52px" />
+<img src="https://iconic-api.onrender.com/dark/unity" width="52px" />
+<img src="https://iconic-api.onrender.com/dark/blender" width="52px" />
+<img src="https://iconic-api.onrender.com/dark/unreal" width="52px" />
+<img src="https://iconic-api.onrender.com/dark/gemini" width="52px" />
+<img src="https://iconic-api.onrender.com/dark/github" width="52px" />
 
 </div>
 
