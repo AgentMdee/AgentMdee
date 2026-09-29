@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="https://skills.syvixor.com/api/icons?i=gcp" height="64">
-  <img src="https://skills.syvixor.com/api/icons?i=xero" height="64">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=XERO" alt="XERO" height="64">
   <img src="https://skills.syvixor.com/api/icons?i=googlesheets" height="64">
   <img src="https://skills.syvixor.com/api/icons?i=googledrive" height="64">
   <img src="https://skills.syvixor.com/api/icons?i=ollama" height="64">
@@ -65,7 +65,6 @@
   <img src="https://skills.syvixor.com/api/icons?i=windows" height="64">
 </p>
 
-  ![xero](https://www.readmecodegen.com/api/social-icon?name=xero)
 ---
 
 # 🚀 Featured Projects
