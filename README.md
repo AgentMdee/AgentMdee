@@ -41,58 +41,27 @@
 - CapCut • KineMaster
 - PixVerse • Kling
 
-## 🚀 Current Projects
 
-- AI Bookkeeping Automation
-- Meta Ads Lead Automation
-- n8n Business Workflows
-- Unity Technical Animation
+## 🛠️ Tools
 
-<table>
-<tr>
+<div style="display: flex; gap: 6px; align-items: center; flex-wrap: wrap;">
 
-<td align="center">
-<img src="https://cdn.simpleicons.org/n8n" width="45"><br>
-<sub><b>n8n</b></sub>
-</td>
+<img src="https://iconic-api.onrender.com/dark/n8n" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/javascript" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/python" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/unity" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/blender" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/unrealengine" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/gemini" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/github" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/googlecloud" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/xero" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/googlesheets" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/googledrive" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/ollama" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/powershell" width="48px" />
 
-<td align="center">
-<img src="https://cdn.simpleicons.org/javascript" width="45"><br>
-<sub><b>JavaScript</b></sub>
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/python" width="45"><br>
-<sub><b>Python</b></sub>
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/unity" width="45"><br>
-<sub><b>Unity</b></sub>
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/blender" width="45"><br>
-<sub><b>Blender</b></sub>
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/unrealengine" width="45"><br>
-<sub><b>Unreal</b></sub>
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/googlegemini" width="45"><br>
-<sub><b>Gemini</b></sub>
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/github" width="45"><br>
-<sub><b>GitHub</b></sub>
-</td>
-
-</tr>
-</table>
+</div>
 
 
 ---
