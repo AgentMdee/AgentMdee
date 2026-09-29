@@ -50,72 +50,89 @@
 
 ## 🛠️ Tools
 
-<p align="center">
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/n8n" width="42"><br>
+<sub><b>n8n</b></sub>
+</td>
 
-<a href="https://n8n.io">
-<img src="https://cdn.simpleicons.org/n8n" width="45" height="45" alt="n8n" title="n8n">
-</a>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/javascript" width="42"><br>
+<sub><b>JavaScript</b></sub>
+</td>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://cdn.simpleicons.org/javascript" width="45" height="45" alt="JavaScript" title="JavaScript">
-</a>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/python" width="42"><br>
+<sub><b>Python</b></sub>
+</td>
 
-<a href="https://www.python.org">
-<img src="https://cdn.simpleicons.org/python" width="45" height="45" alt="Python" title="Python">
-</a>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/unity" width="42"><br>
+<sub><b>Unity</b></sub>
+</td>
 
-<a href="https://unity.com">
-<img src="https://cdn.simpleicons.org/unity" width="45" height="45" alt="Unity" title="Unity">
-</a>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/blender" width="42"><br>
+<sub><b>Blender</b></sub>
+</td>
 
-<a href="https://www.blender.org">
-<img src="https://cdn.simpleicons.org/blender" width="45" height="45" alt="Blender" title="Blender">
-</a>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/unrealengine" width="42"><br>
+<sub><b>Unreal</b></sub>
+</td>
 
-<a href="https://www.unrealengine.com">
-<img src="https://cdn.simpleicons.org/unrealengine" width="45" height="45" alt="Unreal Engine" title="Unreal Engine">
-</a>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/googlegemini" width="42"><br>
+<sub><b>Gemini</b></sub>
+</td>
 
-<a href="https://gemini.google.com">
-<img src="https://cdn.simpleicons.org/googlegemini" width="45" height="45" alt="Gemini" title="Gemini">
-</a>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/github" width="42"><br>
+<sub><b>GitHub</b></sub>
+</td>
+</tr>
 
-<a href="https://github.com">
-<img src="https://cdn.simpleicons.org/github" width="45" height="45" alt="GitHub" title="GitHub">
-</a>
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/googlecloud" width="42"><br>
+<sub><b>Google Cloud</b></sub>
+</td>
 
-<br><br>
+<td align="center">
+<img src="https://cdn.simpleicons.org/xero" width="42"><br>
+<sub><b>Xero</b></sub>
+</td>
 
-<a href="https://cloud.google.com">
-<img src="https://cdn.simpleicons.org/googlecloud" width="45" height="45" alt="Google Cloud" title="Google Cloud">
-</a>
+<td align="center">
+<img src="https://cdn.simpleicons.org/googlesheets" width="42"><br>
+<sub><b>Sheets</b></sub>
+</td>
 
-<a href="https://www.xero.com">
-<img src="https://cdn.simpleicons.org/xero" width="45" height="45" alt="Xero" title="Xero">
-</a>
+<td align="center">
+<img src="https://cdn.simpleicons.org/googledrive" width="42"><br>
+<sub><b>Drive</b></sub>
+</td>
 
-<a href="https://www.google.com/sheets/about/">
-<img src="https://cdn.simpleicons.org/googlesheets" width="45" height="45" alt="Google Sheets" title="Google Sheets">
-</a>
+<td align="center">
+<img src="https://cdn.simpleicons.org/ollama" width="42"><br>
+<sub><b>Ollama</b></sub>
+</td>
 
-<a href="https://www.google.com/drive/">
-<img src="https://cdn.simpleicons.org/googledrive" width="45" height="45" alt="Google Drive" title="Google Drive">
-</a>
+<td align="center">
+<img src="https://cdn.simpleicons.org/powershell" width="42"><br>
+<sub><b>PowerShell</b></sub>
+</td>
 
-<a href="https://ollama.com">
-<img src="https://cdn.simpleicons.org/ollama" width="45" height="45" alt="Ollama" title="Ollama">
-</a>
+<td align="center">
+<img src="https://cdn.simpleicons.org/windowsterminal" width="42"><br>
+<sub><b>CMD</b></sub>
+</td>
 
-<a href="https://learn.microsoft.com/powershell/">
-<img src="https://cdn.simpleicons.org/powershell" width="45" height="45" alt="PowerShell" title="PowerShell">
-</a>
-
-<img src="https://cdn.simpleicons.org/windows" width="45" height="45" alt="CMD" title="Command Prompt">
-
-</p>
-
----
-
+<td align="center">
+</td>
+</tr>
+</table>
 ---
 
 # 🚀 Featured Projects
