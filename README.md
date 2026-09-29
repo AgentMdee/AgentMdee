@@ -62,7 +62,7 @@
   <img src="https://www.readmecodegen.com/api/social-icon?name=googlesheets&background=%23f3f4f6&animation=tada" alt="googlesheets" height="64">
   <img src="https://www.readmecodegen.com/api/social-icon?name=googledrive&background=%23f3f4f6&animation=tada" alt="googledrive" height="64">
   <img src="https://www.readmecodegen.com/api/social-icon?name=Gmail&bg=%23f3f4f6&animation=tada" alt="Gmail" height="64">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&background=%23f3f4f6" alt="whatsapp" height="64">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&background=%23f3f4f6&animation=tada" alt="whatsapp" height="64">
   <img src="https://www.readmecodegen.com/api/social-icon?name=meta&background=%23f3f4f6&animation=tada" alt="meta" height="64">
   <img src="https://www.readmecodegen.com/api/social-icon?name=coreldraw&background=%23f3f4f6&animation=tada" alt="coreldraw" height="64">
 
