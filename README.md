@@ -45,12 +45,16 @@
 ## 🛠️ Tools
 
 <p align="center">
-<img src="https://www.readmecodegen.com/api/social-icon?name=n8n%2CJavaScript%2CPython%2CGithub&bg=%23f3f4f6&animation=tada" alt="n8n-JavaScript-Python-Github" height="64">
+<img src="https://www.readmecodegen.com/api/social-icon?name=n8n&background=%23f3f4f6&animation=tada" alt="n8n" height="64">
+<img src="https://www.readmecodegen.com/api/social-icon?name=javascript&background=%23f3f4f6&animation=tada" alt="javascript" height="64">
+<img src="https://www.readmecodegen.com/api/social-icon?name=github&background=%23f3f4f6&animation=tada" alt="github" height="64">
 <img src="https://www.readmecodegen.com/api/social-icon?name=googlegemini&background=%23f3f4f6&animation=tada" alt="googlegemini" height="64">
 <img src="https://www.readmecodegen.com/api/social-icon?name=ollama&background=%23f3f4f6&animation=tada" alt="ollama" height="64">
-<img src="https://www.readmecodegen.com/api/social-icon?name=Cloudflare%2CUnity%2CBlender&bg=%23f3f4f6&animation=tada" alt="Cloudflare-Unity-Blender" height="64">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=unrealengine&background=%23f3f4f6&animation=tada" alt="unrealengine" height="64">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=Gamemaker&bg=%23f3f4f6&animation=tada" alt="Gamemaker" height="64">
+<img src="https://www.readmecodegen.com/api/social-icon?name=cloudflare&background=%23f3f4f6&animation=tada" alt="cloudflare" height="64">
+<img src="https://www.readmecodegen.com/api/social-icon?name=unity&background=%23f3f4f6&animation=tada" alt="unity" height="64">
+<img src="https://www.readmecodegen.com/api/social-icon?name=blender&background=%23f3f4f6&animation=tada" alt="blender" height="64">
+<img src="https://www.readmecodegen.com/api/social-icon?name=unrealengine&background=%23f3f4f6&animation=tada" alt="unrealengine" height="64">
+<img src="https://www.readmecodegen.com/api/social-icon?name=Gamemaker&bg=%23f3f4f6&animation=tada" alt="Gamemaker" height="64">
 </p>
 
 <p align="center">
