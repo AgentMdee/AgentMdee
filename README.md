@@ -48,116 +48,47 @@
 - n8n Business Workflows
 - Unity Technical Animation
 
-## 🛠️ Tools
-
 <table>
 <tr>
 
 <td align="center">
-<a href="https://n8n.io">
-<img src="https://cdn.simpleicons.org/n8n" width="45"
-     alt="n8n" title="n8n">
-</a>
+<img src="https://cdn.simpleicons.org/n8n" width="45"><br>
+<sub><b>n8n</b></sub>
 </td>
 
 <td align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://cdn.simpleicons.org/javascript" width="45"
-     alt="JavaScript" title="JavaScript">
-</a>
+<img src="https://cdn.simpleicons.org/javascript" width="45"><br>
+<sub><b>JavaScript</b></sub>
 </td>
 
 <td align="center">
-<a href="https://www.python.org">
-<img src="https://cdn.simpleicons.org/python" width="45"
-     alt="Python" title="Python">
-</a>
+<img src="https://cdn.simpleicons.org/python" width="45"><br>
+<sub><b>Python</b></sub>
 </td>
 
 <td align="center">
-<a href="https://unity.com">
-<img src="https://cdn.simpleicons.org/unity" width="45"
-     alt="Unity" title="Unity">
-</a>
+<img src="https://cdn.simpleicons.org/unity" width="45"><br>
+<sub><b>Unity</b></sub>
 </td>
 
 <td align="center">
-<a href="https://www.blender.org">
-<img src="https://cdn.simpleicons.org/blender" width="45"
-     alt="Blender" title="Blender">
-</a>
+<img src="https://cdn.simpleicons.org/blender" width="45"><br>
+<sub><b>Blender</b></sub>
 </td>
 
 <td align="center">
-<a href="https://www.unrealengine.com">
-<img src="https://cdn.simpleicons.org/unrealengine" width="45"
-     alt="Unreal Engine" title="Unreal Engine">
-</a>
+<img src="https://cdn.simpleicons.org/unrealengine" width="45"><br>
+<sub><b>Unreal</b></sub>
 </td>
 
 <td align="center">
-<a href="https://gemini.google.com">
-<img src="https://cdn.simpleicons.org/googlegemini" width="45"
-     alt="Gemini" title="Gemini">
-</a>
+<img src="https://cdn.simpleicons.org/googlegemini" width="45"><br>
+<sub><b>Gemini</b></sub>
 </td>
 
 <td align="center">
-<a href="https://github.com">
-<img src="https://cdn.simpleicons.org/github" width="45"
-     alt="GitHub" title="GitHub">
-</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<a href="https://cloud.google.com">
-<img src="https://cdn.simpleicons.org/googlecloud" width="45"
-     alt="Google Cloud" title="Google Cloud">
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.xero.com">
-<img src="https://cdn.simpleicons.org/xero" width="45"
-     alt="Xero" title="Xero">
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.google.com/sheets/about/">
-<img src="https://cdn.simpleicons.org/googlesheets" width="45"
-     alt="Google Sheets" title="Google Sheets">
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.google.com/drive/">
-<img src="https://cdn.simpleicons.org/googledrive" width="45"
-     alt="Google Drive" title="Google Drive">
-</a>
-</td>
-
-<td align="center">
-<a href="https://ollama.com">
-<img src="https://cdn.simpleicons.org/ollama" width="45"
-     alt="Ollama" title="Ollama">
-</a>
-</td>
-
-<td align="center">
-<a href="https://learn.microsoft.com/powershell/">
-<img src="https://cdn.simpleicons.org/powershell" width="45"
-     alt="PowerShell" title="PowerShell">
-</a>
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/windowsterminal" width="45"
-     alt="CMD" title="Command Prompt">
+<img src="https://cdn.simpleicons.org/github" width="45"><br>
+<sub><b>GitHub</b></sub>
 </td>
 
 </tr>
