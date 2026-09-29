@@ -63,6 +63,7 @@
   <img src="https://skills.syvixor.com/api/icons?i=ollama" height="64">
   <img src="https://skills.syvixor.com/api/icons?i=powershell" height="64">
   <img src="https://skills.syvixor.com/api/icons?i=windows" height="64">
+  ![xero](https://www.readmecodegen.com/api/social-icon?name=xero)
 </p>
 
 
