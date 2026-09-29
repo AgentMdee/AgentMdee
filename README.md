@@ -128,14 +128,11 @@ Educational RPG game developed for elementary students, combining gameplay with 
 <p align="center">
   <img src="images/gamemaker-rpg/Menu.png" width="250">
   <img src="images/gamemaker-rpg/Stage.png" width="250">
-</p>
-
-<p align="center">
   <img src="images/gamemaker-rpg/Math-question.png" width="250">
-  <img src="images/gamemaker-rpg/Math-question2.png" width="250">
 </p>
 
 <p align="center">
+  <img src="images/gamemaker-rpg/Math-question2.png" width="250">
   <img src="images/gamemaker-rpg/Correct.png" width="250">
   <img src="images/gamemaker-rpg/Wrong.png" width="250">
 </p>
