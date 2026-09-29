@@ -154,6 +154,16 @@
      alt="PowerShell" title="PowerShell">
 </a>
 </td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/windowsterminal" width="45"
+     alt="CMD" title="Command Prompt">
+</td>
+
+</tr>
+</table>
+
+
 ---
 
 # 🚀 Featured Projects
