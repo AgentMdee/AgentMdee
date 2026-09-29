@@ -52,87 +52,108 @@
 
 <table>
 <tr>
-<td align="center" width="110">
-<img src="https://cdn.simpleicons.org/n8n" width="42"><br>
-<sub><b>n8n</b></sub>
+
+<td align="center">
+<a href="https://n8n.io">
+<img src="https://cdn.simpleicons.org/n8n" width="45"
+     alt="n8n" title="n8n">
+</a>
 </td>
 
-<td align="center" width="110">
-<img src="https://cdn.simpleicons.org/javascript" width="42"><br>
-<sub><b>JavaScript</b></sub>
+<td align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://cdn.simpleicons.org/javascript" width="45"
+     alt="JavaScript" title="JavaScript">
+</a>
 </td>
 
-<td align="center" width="110">
-<img src="https://cdn.simpleicons.org/python" width="42"><br>
-<sub><b>Python</b></sub>
+<td align="center">
+<a href="https://www.python.org">
+<img src="https://cdn.simpleicons.org/python" width="45"
+     alt="Python" title="Python">
+</a>
 </td>
 
-<td align="center" width="110">
-<img src="https://cdn.simpleicons.org/unity" width="42"><br>
-<sub><b>Unity</b></sub>
+<td align="center">
+<a href="https://unity.com">
+<img src="https://cdn.simpleicons.org/unity" width="45"
+     alt="Unity" title="Unity">
+</a>
 </td>
 
-<td align="center" width="110">
-<img src="https://cdn.simpleicons.org/blender" width="42"><br>
-<sub><b>Blender</b></sub>
+<td align="center">
+<a href="https://www.blender.org">
+<img src="https://cdn.simpleicons.org/blender" width="45"
+     alt="Blender" title="Blender">
+</a>
 </td>
 
-<td align="center" width="110">
-<img src="https://cdn.simpleicons.org/unrealengine" width="42"><br>
-<sub><b>Unreal</b></sub>
+<td align="center">
+<a href="https://www.unrealengine.com">
+<img src="https://cdn.simpleicons.org/unrealengine" width="45"
+     alt="Unreal Engine" title="Unreal Engine">
+</a>
 </td>
 
-<td align="center" width="110">
-<img src="https://cdn.simpleicons.org/googlegemini" width="42"><br>
-<sub><b>Gemini</b></sub>
+<td align="center">
+<a href="https://gemini.google.com">
+<img src="https://cdn.simpleicons.org/googlegemini" width="45"
+     alt="Gemini" title="Gemini">
+</a>
 </td>
 
-<td align="center" width="110">
-<img src="https://cdn.simpleicons.org/github" width="42"><br>
-<sub><b>GitHub</b></sub>
+<td align="center">
+<a href="https://github.com">
+<img src="https://cdn.simpleicons.org/github" width="45"
+     alt="GitHub" title="GitHub">
+</a>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
-<img src="https://cdn.simpleicons.org/googlecloud" width="42"><br>
-<sub><b>Google Cloud</b></sub>
+<a href="https://cloud.google.com">
+<img src="https://cdn.simpleicons.org/googlecloud" width="45"
+     alt="Google Cloud" title="Google Cloud">
+</a>
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/xero" width="42"><br>
-<sub><b>Xero</b></sub>
+<a href="https://www.xero.com">
+<img src="https://cdn.simpleicons.org/xero" width="45"
+     alt="Xero" title="Xero">
+</a>
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/googlesheets" width="42"><br>
-<sub><b>Sheets</b></sub>
+<a href="https://www.google.com/sheets/about/">
+<img src="https://cdn.simpleicons.org/googlesheets" width="45"
+     alt="Google Sheets" title="Google Sheets">
+</a>
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/googledrive" width="42"><br>
-<sub><b>Drive</b></sub>
+<a href="https://www.google.com/drive/">
+<img src="https://cdn.simpleicons.org/googledrive" width="45"
+     alt="Google Drive" title="Google Drive">
+</a>
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/ollama" width="42"><br>
-<sub><b>Ollama</b></sub>
+<a href="https://ollama.com">
+<img src="https://cdn.simpleicons.org/ollama" width="45"
+     alt="Ollama" title="Ollama">
+</a>
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/powershell" width="42"><br>
-<sub><b>PowerShell</b></sub>
+<a href="https://learn.microsoft.com/powershell/">
+<img src="https://cdn.simpleicons.org/powershell" width="45"
+     alt="PowerShell" title="PowerShell">
+</a>
 </td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/windowsterminal" width="42"><br>
-<sub><b>CMD</b></sub>
-</td>
-
-<td align="center">
-</td>
-</tr>
-</table>
 ---
 
 # 🚀 Featured Projects
