@@ -45,14 +45,7 @@
 ## 🛠️ Tools
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=n8n" height="64">
-  <img src="https://skills.syvixor.com/api/icons?i=javascript" height="64">
-  <img src="https://skills.syvixor.com/api/icons?i=python" height="64">
-  <img src="https://skills.syvixor.com/api/icons?i=unity" height="64">
-  <img src="https://skills.syvixor.com/api/icons?i=blender" height="64">
-  <img src="https://skills.syvixor.com/api/icons?i=unreal" height="64">
-  <img src="https://skills.syvixor.com/api/icons?i=gemini" height="64">
-  <img src="https://skills.syvixor.com/api/icons?i=github" height="64">
+<img src="https://www.readmecodegen.com/api/social-icon?name=n8n%2CJavaScript%2CPython%2CGithub&bg=%23f3f4f6" alt="n8n-JavaScript-Python-Github" height="64">
 </p>
 
 <p align="center">
