@@ -46,6 +46,8 @@
 
 <p align="center">
 <img src="https://www.readmecodegen.com/api/social-icon?name=n8n%2CJavaScript%2CPython%2CGithub&bg=%23f3f4f6" alt="n8n-JavaScript-Python-Github" height="64">
+<img src="https://www.readmecodegen.com/api/social-icon?name=googlegemini&background=%23f3f4f6" alt="googlegemini" height="64">
+<img src="https://www.readmecodegen.com/api/social-icon?name=ollama&background=%23f3f4f6" alt="ollama" height="64">
 <img src="https://www.readmecodegen.com/api/social-icon?name=Cloudflare%2CUnity%2CBlender&bg=%23f3f4f6" alt="Cloudflare-Unity-Blender" height="64">
   <img src="https://www.readmecodegen.com/api/social-icon?name=unrealengine&background=%23f3f4f6" alt="unrealengine" height="64">
   <img src="https://www.readmecodegen.com/api/social-icon?name=Gamemaker&bg=%23f3f4f6" alt="Gamemaker" height="64">
@@ -58,6 +60,7 @@
   <img src="https://www.readmecodegen.com/api/social-icon?name=Gmail&bg=%23f3f4f6" alt="Gmail" height="64">
   <img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&background=%23f3f4f6" alt="whatsapp" height="64">
   <img src="https://www.readmecodegen.com/api/social-icon?name=meta&background=%23f3f4f6" alt="meta" height="64">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=coreldraw&background=%23f3f4f6" alt="coreldraw" height="64">
 </p>
 
 ---
