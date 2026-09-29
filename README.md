@@ -48,9 +48,73 @@
 - n8n Business Workflows
 - Unity Technical Animation
 
-**Tools:**  
-`n8n` `JavaScript` `Python` `Unity` `Blender` `Unreal`  
-`Gemini` `GitHub` `Google Cloud` `Xero`
+## 🛠️ Tools
+
+<p align="center">
+
+<a href="https://n8n.io">
+<img src="https://cdn.simpleicons.org/n8n" width="45" height="45" alt="n8n" title="n8n">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://cdn.simpleicons.org/javascript" width="45" height="45" alt="JavaScript" title="JavaScript">
+</a>
+
+<a href="https://www.python.org">
+<img src="https://cdn.simpleicons.org/python" width="45" height="45" alt="Python" title="Python">
+</a>
+
+<a href="https://unity.com">
+<img src="https://cdn.simpleicons.org/unity" width="45" height="45" alt="Unity" title="Unity">
+</a>
+
+<a href="https://www.blender.org">
+<img src="https://cdn.simpleicons.org/blender" width="45" height="45" alt="Blender" title="Blender">
+</a>
+
+<a href="https://www.unrealengine.com">
+<img src="https://cdn.simpleicons.org/unrealengine" width="45" height="45" alt="Unreal Engine" title="Unreal Engine">
+</a>
+
+<a href="https://gemini.google.com">
+<img src="https://cdn.simpleicons.org/googlegemini" width="45" height="45" alt="Gemini" title="Gemini">
+</a>
+
+<a href="https://github.com">
+<img src="https://cdn.simpleicons.org/github" width="45" height="45" alt="GitHub" title="GitHub">
+</a>
+
+<br><br>
+
+<a href="https://cloud.google.com">
+<img src="https://cdn.simpleicons.org/googlecloud" width="45" height="45" alt="Google Cloud" title="Google Cloud">
+</a>
+
+<a href="https://www.xero.com">
+<img src="https://cdn.simpleicons.org/xero" width="45" height="45" alt="Xero" title="Xero">
+</a>
+
+<a href="https://www.google.com/sheets/about/">
+<img src="https://cdn.simpleicons.org/googlesheets" width="45" height="45" alt="Google Sheets" title="Google Sheets">
+</a>
+
+<a href="https://www.google.com/drive/">
+<img src="https://cdn.simpleicons.org/googledrive" width="45" height="45" alt="Google Drive" title="Google Drive">
+</a>
+
+<a href="https://ollama.com">
+<img src="https://cdn.simpleicons.org/ollama" width="45" height="45" alt="Ollama" title="Ollama">
+</a>
+
+<a href="https://learn.microsoft.com/powershell/">
+<img src="https://cdn.simpleicons.org/powershell" width="45" height="45" alt="PowerShell" title="PowerShell">
+</a>
+
+<img src="https://cdn.simpleicons.org/windows" width="45" height="45" alt="CMD" title="Command Prompt">
+
+</p>
+
+---
 
 ---
 
