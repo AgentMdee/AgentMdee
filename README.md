@@ -44,18 +44,26 @@
 
 ## 🛠️ Tools
 
-<div style="display: flex; gap: 6px; align-items: center; flex-wrap: wrap;">
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?i=n8n" height="64">
+  <img src="https://skills.syvixor.com/api/icons?i=javascript" height="64">
+  <img src="https://skills.syvixor.com/api/icons?i=python" height="64">
+  <img src="https://skills.syvixor.com/api/icons?i=unity" height="64">
+  <img src="https://skills.syvixor.com/api/icons?i=blender" height="64">
+  <img src="https://skills.syvixor.com/api/icons?i=unreal" height="64">
+  <img src="https://skills.syvixor.com/api/icons?i=gemini" height="64">
+  <img src="https://skills.syvixor.com/api/icons?i=github" height="64">
+</p>
 
-<img src="https://iconic-api.onrender.com/dark/n8n" width="52px" />
-<img src="https://iconic-api.onrender.com/dark/js" width="52px" />
-<img src="https://iconic-api.onrender.com/dark/python" width="52px" />
-<img src="https://iconic-api.onrender.com/dark/unity" width="52px" />
-<img src="https://iconic-api.onrender.com/dark/blender" width="52px" />
-<img src="https://iconic-api.onrender.com/dark/unreal" width="52px" />
-<img src="https://iconic-api.onrender.com/dark/gemini" width="52px" />
-<img src="https://iconic-api.onrender.com/dark/github" width="52px" />
-
-</div>
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?i=gcp" height="64">
+  <img src="https://skills.syvixor.com/api/icons?i=xero" height="64">
+  <img src="https://skills.syvixor.com/api/icons?i=googlesheets" height="64">
+  <img src="https://skills.syvixor.com/api/icons?i=googledrive" height="64">
+  <img src="https://skills.syvixor.com/api/icons?i=ollama" height="64">
+  <img src="https://skills.syvixor.com/api/icons?i=powershell" height="64">
+  <img src="https://skills.syvixor.com/api/icons?i=windows" height="64">
+</p>
 
 
 ---
