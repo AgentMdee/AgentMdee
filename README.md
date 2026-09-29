@@ -61,6 +61,8 @@
   <img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&background=%23f3f4f6" alt="whatsapp" height="64">
   <img src="https://www.readmecodegen.com/api/social-icon?name=meta&background=%23f3f4f6" alt="meta" height="64">
   <img src="https://www.readmecodegen.com/api/social-icon?name=coreldraw&background=%23f3f4f6" alt="coreldraw" height="64">
+
+  <img src="https://www.readmecodegen.com/api/social-icon?name=ollama&background=%23f3f4f6&animation=tada" alt="ollama" height="64">
 </p>
 
 ---
