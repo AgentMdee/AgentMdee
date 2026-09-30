@@ -18,7 +18,7 @@
 - OCR & Document Processing
 - Google Workspace • Google Cloud
 - Google Sheets • Google Drive • Gmail
-- WhatsApp • Xero
+- WhatsApp
 - Meta Ads Lead Automation
 
 ## 🎮 3D & Game Development
