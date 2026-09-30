@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Mdee 👋🏼
+# Hi there, I'm Mdee ✌️
 
 ### AI Automation | 3D Technical Animation | Content Creator
 
