@@ -12,7 +12,7 @@
 
 ## 🤖 AI & Automation
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=n8n&background=%23f3f4f6&animation=tada" alt="n8n" height="25"> **n8n** Workflow Automation
+<img src="https://www.readmecodegen.com/api/social-icon?name=n8n&background=%23f3f4f6&animation=tada" alt="n8n" height="25"> - **n8n** Workflow Automation
 - **JavaScript**
 - AI / LLM Integration
 - OCR & Document Processing
